@@ -2,6 +2,6 @@
 tytuł/śródtytuł projektu: portfolio
 autor: rekinekrekinowaty@gmail.com
 strona: 
-opis:
-technologia:
+opis: moje portfolio
+technologia: HTML + CSS
 uruchomienie:
